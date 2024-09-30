@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <!-- Base theme for your app, inheriting from AppCompat -->
+    <style name="Theme.Clase5" parent="Theme.AppCompat.Light.DarkActionBar">
+        <!-- Personaliza tus colores principales -->
+        <item name="colorPrimary">@color/verdesito</item>
+        <item name="colorPrimaryDark">@color/verdesito_mas_oscuro</item>
+        <item name="colorAccent">@color/teal_200</item>
+    </style>
+
+</resources>
